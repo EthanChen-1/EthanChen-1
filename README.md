@@ -1,4 +1,4 @@
-Full-stack web developer with experience using React, Spring, Express, PostgreSQL, and MySQL.\n
+Full-stack web developer with experience using React, Spring, Express, PostgreSQL, and MySQL. <br/>
 Have experience with Agile principles and ceremonies, utilizing test-driven development, and pair programming.
 
 
